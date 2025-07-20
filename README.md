@@ -1,4 +1,4 @@
-#  Additional Batch Rename
+#  Recalculate Origin Orientation
 
 ![banner](./Banner.png)
 
