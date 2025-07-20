@@ -2,7 +2,7 @@ schema_version = "1.0.0"
 
 id = "recalculate_origin_orientation"
 name = "Recalculate Origin Orientation"
-tagline = "Recalculate an object's origin orientation to the selected face normal"
+tagline = "Recalculate an object's origin orientation"
 version = "1.0.0"
 maintainer = "Endertainer007 <endertainer@protonmail.com>"
 type = "add-on"
